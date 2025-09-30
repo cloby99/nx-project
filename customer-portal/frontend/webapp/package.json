@@ -8,6 +8,10 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "dependencies": {
+    "vite": "^7.0.0",
+    "@vitejs/plugin-react": "^4.2.0"
+  },
   "devDependencies": {
     "vite": "^7.0.0",
     "@vitejs/plugin-react": "^4.2.0"
