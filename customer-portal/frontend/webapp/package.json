@@ -1,0 +1,15 @@
+{
+  "name": "@customer-portal/webapp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0",
+    "@vitejs/plugin-react": "^4.2.0"
+  }
+}
